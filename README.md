@@ -35,4 +35,19 @@
     <li><strong>Display User Libraries</strong>: View the audiobook collections of users based on different filters.</li><br>
     <li><strong>Rate Audiobook</strong>: Allow users to rate audiobooks, contributing to their overall feedback score.</li><br>
     <li><strong>Most Popular Audiobook</strong>: Determine the most popular audiobook based on user ratings.</li><br>
-    <
+     <li><strong>Most Popular Audiobook</strong>: Determine the most popular audiobook based on user ratings.</li><br>
+    <li><strong>Listening History Report (User)</strong>: Generate a report detailing the audiobooks listened to by a specific user.</li><br>
+    <li><strong>Merge User Libraries</strong>: Combine the audiobook libraries of two users into a single library.</li><br>
+    <li><strong>Listening History Report (Audiobook)</strong>: Generate a report detailing the listening history of a specific audiobook.</li><br>
+    <li><strong>Display Audiobook List with Average Rating</strong>: Display the list of audiobooks sorted by title with their average ratings.</li><br>
+</ol><br>
+
+<h2>Implementation</h2><br>
+<p>The system is implemented in C programming language using a linked list data structure for efficient management of audiobooks and user profiles. Each functionality is implemented as a separate function, with a main function handling user input and interaction.</p><br>
+
+<h2>File Handling</h2><br>
+<p>File handling is utilized to read initial data from a .txt file containing user and audiobook information. This allows for easy initialization of the system with pre-existing data.</p><br>
+
+<h2>Usage</h2><br>
+<p>To use the Audiobook Library System:</p><br>
+<
