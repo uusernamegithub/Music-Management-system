@@ -48,6 +48,4 @@
 <h2>File Handling</h2><br>
 <p>File handling is utilized to read initial data from a .txt file containing user and audiobook information. This allows for easy initialization of the system with pre-existing data.</p><br>
 
-<h2>Usage</h2><br>
-<p>To use the Audiobook Library System:</p><br>
-<
+
